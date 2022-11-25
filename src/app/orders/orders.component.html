@@ -1,0 +1,20 @@
+<h2>Orders</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">id</th>
+            <th scope="col">user</th>
+            <th scope="col">id_prod</th>
+            <th scope="col">date</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let orders of orderslist">
+
+            <td>{{orders.id}}</td>
+            <td>{{orders.user}}</td>
+            <td>{{orders.id_prod}}</td>
+            <td>{{orders.date}}</td>
+        </tr>
+    </tbody>
+</table>

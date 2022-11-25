@@ -1,0 +1,27 @@
+[
+    {
+        "name":"user1",
+        "id":"1098",
+        "email":"user1@prodapp.com",
+        "phone":"0101010101"
+    },
+
+    {
+        "name":"user2",
+        "id":"1099",
+        "email":"user2@prodapp.com",
+        "phone":"0202020202"
+
+    },
+
+    {
+        "name":"user3",
+        "id":"1011",
+        "email":"user3@prodapp.com",
+        "phone":"0303030303"
+    }
+
+
+
+
+]
